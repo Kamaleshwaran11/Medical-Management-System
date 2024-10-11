@@ -1,4 +1,4 @@
-# Medical-Management-System
+# Medical-CRUD
 
 ### a.patient management:
 <b>Features: Add, update, delete, and search patient records.</b>
