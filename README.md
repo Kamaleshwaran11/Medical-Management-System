@@ -1,3 +1,2 @@
-# MediHub
-MediHub is a Medical Management System Uisng JAVA and MySQL
-## Abstract
+# Medical Management System Uisng JAVA and MySQL
+
