@@ -1,2 +1,2 @@
-# Medical Management System Uisng JAVA and MySQL
+# Medical Management System Using JAVA and MySQL
 
